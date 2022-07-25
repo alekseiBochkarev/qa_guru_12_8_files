@@ -15,7 +15,7 @@
 *.war
 *.nar
 *.ear
-*.zip
+!*.zip
 *.tar.gz
 *.rar
 *.iml
@@ -34,3 +34,6 @@ target/
 .vscode
 /gradlew
 /gradlew.bat
+
+
+
