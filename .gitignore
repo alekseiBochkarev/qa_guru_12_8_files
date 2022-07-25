@@ -15,7 +15,7 @@
 *.war
 *.nar
 *.ear
-*.zip
+!*.zip
 *.tar.gz
 *.rar
 *.iml
@@ -35,5 +35,5 @@ target/
 /gradlew
 /gradlew.bat
 
-!*/zip/
+
 
